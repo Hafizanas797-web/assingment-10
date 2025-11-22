@@ -545,6 +545,7 @@ footer {
 }
 .search-in-daraz input {
     height: 18px;
+    border-radius:10px;
     width: 200px;
 }
 .head-search1{
@@ -970,6 +971,7 @@ margin-left: 10px;
 }
 .mm1{
     margin-left: 20px;
+     font-size: 20px;
 }
 .lol{
     margin-left: 0px;
@@ -1008,4 +1010,5 @@ position: fixed;
 right: 120px;
 bottom: 10px;
 }
+
 }
